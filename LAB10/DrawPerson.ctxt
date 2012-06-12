@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=class\ DrawPerson
+comment1.target=headY
+comment10.target=pantsX
+comment11.params=x\ y
+comment11.target=void\ movePersocd(int,int)
+comment12.params=
+comment12.target=void\ init()
+comment13.target=APPLET_HEIGHT
+comment2.target=headX
+comment3.target=shirtY
+comment4.target=APPLET_WIDTH
+comment5.target=shirtX
+comment6.params=page
+comment6.target=void\ paint(Graphics)
+comment7.target=zagY
+comment8.target=pantsY
+comment9.target=zagX
+numComments=14

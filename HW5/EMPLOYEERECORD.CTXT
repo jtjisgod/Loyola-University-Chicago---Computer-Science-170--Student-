@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=class\ EmployeeRecord
+comment0.text=\nUsed\ as\ a\ reference\ function\ of\ EmployeeRecordDemo.*\n\n@author\ Marc\ Schulz\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ *\n@version\ February\ 18,\ 2003\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ *\n\n
+comment1.params=
+comment1.target=String\ getName()
+comment10.target=Late
+comment11.target=Hours
+comment12.params=
+comment12.target=double\ computePay()
+comment13.params=l
+comment13.target=void\ setLate(int)
+comment14.params=
+comment14.target=double\ getWage()
+comment2.params=
+comment2.target=double\ getLate()
+comment3.target=Wage
+comment4.params=initName\ initWage
+comment4.target=EmployeeRecord(String,double)
+comment5.params=h
+comment5.target=void\ setHours(int)
+comment6.params=
+comment6.target=double\ getHours()
+comment7.params=w
+comment7.target=void\ setWage(double)
+comment8.target=Pay
+comment9.target=Name
+numComments=15

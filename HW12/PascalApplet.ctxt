@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=class\ PascalApplet
+comment1.target=WIDTH
+comment2.target=HEIGHT
+comment3.target=triangle
+comment4.params=g
+comment4.target=void\ paint(Graphics)
+comment5.params=
+comment5.target=void\ init()
+numComments=6

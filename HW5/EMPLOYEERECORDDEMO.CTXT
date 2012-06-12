@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=class\ EmployeeRecordDemo
+comment1.params=args
+comment1.target=void\ main(String[])
+comment2.params=
+comment2.target=void\ showMenu()
+comment3.params=r
+comment3.target=void\ displayRecord(EmployeeRecord)
+comment4.params=a\ b
+comment4.target=EmployeeRecord\ chooseRecord(EmployeeRecord,EmployeeRecord)
+numComments=5
