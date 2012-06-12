@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=class\ RosesAreRed
+comment0.text=Prints\ The\ poem\ Roses\ are\ Red\!//\n/*\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ //\n/*\ @author\ Marc\ Schulz\ \ \ \ \ \ \ \ \ \ \ //\n/*\ @version\ January\ 21,\ 2003\ \ \ \ \ //\n//*******************************\n
+comment1.params=args
+comment1.target=void\ main(String[])
+numComments=2

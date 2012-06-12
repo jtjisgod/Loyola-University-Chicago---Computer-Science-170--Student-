@@ -1,0 +1,24 @@
+#BlueJ package file
+dependency1.from=Banking
+dependency1.to=Account
+dependency1.type=UsesDependency
+package.editor.height=566
+package.editor.width=903
+package.editor.x=16
+package.editor.y=16
+package.numDependencies=1
+package.numTargets=2
+target1.height=50
+target1.modifiers=0
+target1.name=Banking
+target1.type=ClassTarget
+target1.width=80
+target1.x=150
+target1.y=10
+target2.height=50
+target2.modifiers=0
+target2.name=Account
+target2.type=ClassTarget
+target2.width=80
+target2.x=60
+target2.y=10

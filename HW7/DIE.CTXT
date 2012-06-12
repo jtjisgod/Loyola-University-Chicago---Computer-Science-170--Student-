@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=class\ Die
+comment1.params=g\ x\ y\ w
+comment1.target=void\ draw(Graphics,int,int,int)
+comment2.target=faceValue
+comment3.params=
+comment3.target=Die()
+comment4.params=faces
+comment4.target=Die(int)
+comment5.target=numFaces
+comment6.target=MIN_FACES
+comment7.params=
+comment7.target=int\ roll()
+comment8.params=
+comment8.target=int\ getFaceValue()
+numComments=9

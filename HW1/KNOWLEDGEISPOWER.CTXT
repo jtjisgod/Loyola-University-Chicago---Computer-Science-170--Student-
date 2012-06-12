@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=class\ KnowledgeIsPower
+comment0.text=Mschulz\nThis\ is\ a\ program\ Designed\ to\ print\ the\ words\ "Knowledge\ is\ power"\ in\nthree\ different\ ways\nComp\ 170\ Section\ 020\n@author\ Marc\ Schulz\n@version\ 1/14/02\n\n
+comment1.params=args
+comment1.target=void\ main(String[])
+numComments=2

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=class\ DeckOfCards
+comment0.text=\nCreates\ 52\ Cards\ in\ a\ Deck\ and\ allows\ you\ to\ draw\ them\n\n@author\ \ Marc\ Schulz\n@version\ March\ 25,\ 2003\n\n
+comment1.params=
+comment1.target=Card\ deal()
+comment2.target=d
+comment3.params=
+comment3.target=int\ getNumLeft()
+comment4.params=
+comment4.target=Card\ DeckofCards()
+comment5.target=cardCount
+numComments=6

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=class\ GameApplet
+comment0.text=\nThis\ Game\ is\ a\ six\ sided\ dice\ game\ where\ players\ compete\ to\ get\ to\ 500\ in\ the\ \nleast\ number\ of\ turns\n\n@author\ Marc\ Schulz\n@version\ March,\ 18\ 2003\n\n
+comment1.params=event
+comment1.target=void\ mousePressed(MouseEvent)
+comment2.params=event
+comment2.target=void\ mouseEntered(MouseEvent)
+comment3.params=g
+comment3.target=void\ paint(Graphics)
+comment4.params=e
+comment4.target=void\ mouseClicked(MouseEvent)
+comment5.params=event
+comment5.target=void\ mouseReleased(MouseEvent)
+comment6.target=b
+comment7.target=a
+comment8.params=event
+comment8.target=void\ mouseExited(MouseEvent)
+comment9.params=
+comment9.target=void\ init()
+numComments=10

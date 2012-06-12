@@ -1,0 +1,27 @@
+#BlueJ package file
+package.editor.height=300
+package.editor.width=420
+package.editor.x=418
+package.editor.y=221
+package.numDependencies=0
+package.numTargets=2
+target1.appletHeight=500
+target1.appletWidth=500
+target1.height=50
+target1.modifiers=0
+target1.name=Checkers24
+target1.numberAppletParameters=0
+target1.type=AppletTarget
+target1.width=90
+target1.x=160
+target1.y=10
+target2.appletHeight=500
+target2.appletWidth=500
+target2.height=50
+target2.modifiers=0
+target2.name=Checkers23
+target2.numberAppletParameters=0
+target2.type=AppletTarget
+target2.width=90
+target2.x=60
+target2.y=10

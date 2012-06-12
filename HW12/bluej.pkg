@@ -1,0 +1,27 @@
+#BlueJ package file
+dependency1.from=PascalApplet
+dependency1.to=PascalTriangle
+dependency1.type=UsesDependency
+package.editor.height=848
+package.editor.width=1279
+package.editor.x=-4
+package.editor.y=-4
+package.numDependencies=1
+package.numTargets=2
+target1.height=50
+target1.modifiers=0
+target1.name=PascalTriangle
+target1.type=ClassTarget
+target1.width=110
+target1.x=190
+target1.y=10
+target2.appletHeight=500
+target2.appletWidth=500
+target2.height=50
+target2.modifiers=0
+target2.name=PascalApplet
+target2.numberAppletParameters=0
+target2.type=AppletTarget
+target2.width=100
+target2.x=60
+target2.y=10

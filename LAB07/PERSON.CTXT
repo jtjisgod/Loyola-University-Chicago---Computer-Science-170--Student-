@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=class\ Person
+comment1.params=name\ age
+comment1.target=Person(String,int)
+comment2.target=age
+comment3.target=name
+comment4.params=
+comment4.target=String\ toString()
+comment5.params=newAge
+comment5.target=void\ changeAge(int)
+comment6.params=newName
+comment6.target=void\ changeName(String)
+numComments=7
